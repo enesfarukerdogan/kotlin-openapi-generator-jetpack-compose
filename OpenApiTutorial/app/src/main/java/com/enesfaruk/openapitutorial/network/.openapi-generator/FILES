@@ -1,0 +1,14 @@
+src/main/kotlin/com/enesfaruk/openapitutorial/apis/DefaultApi.kt
+src/main/kotlin/com/enesfaruk/openapitutorial/infrastructure/ApiClient.kt
+src/main/kotlin/com/enesfaruk/openapitutorial/infrastructure/BigDecimalAdapter.kt
+src/main/kotlin/com/enesfaruk/openapitutorial/infrastructure/BigIntegerAdapter.kt
+src/main/kotlin/com/enesfaruk/openapitutorial/infrastructure/ByteArrayAdapter.kt
+src/main/kotlin/com/enesfaruk/openapitutorial/infrastructure/CollectionFormats.kt
+src/main/kotlin/com/enesfaruk/openapitutorial/infrastructure/LocalDateAdapter.kt
+src/main/kotlin/com/enesfaruk/openapitutorial/infrastructure/LocalDateTimeAdapter.kt
+src/main/kotlin/com/enesfaruk/openapitutorial/infrastructure/OffsetDateTimeAdapter.kt
+src/main/kotlin/com/enesfaruk/openapitutorial/infrastructure/ResponseExt.kt
+src/main/kotlin/com/enesfaruk/openapitutorial/infrastructure/Serializer.kt
+src/main/kotlin/com/enesfaruk/openapitutorial/infrastructure/URIAdapter.kt
+src/main/kotlin/com/enesfaruk/openapitutorial/infrastructure/UUIDAdapter.kt
+src/main/kotlin/com/enesfaruk/openapitutorial/models/GetAll200ResponseInner.kt
